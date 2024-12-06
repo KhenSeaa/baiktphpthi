@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../FiveStore"
+		},
+		{
+			"path": "../../../../ktra_Dung_22111061866"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FiveStore"
+	}
+}
